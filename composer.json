@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.3.0",
         "acquia/acquia-sdk-php-json": "self.version",
-        "guzzle/guzzle": "~3.0",
+        "guzzle/guzzle": "~3.9",
         "symfony/filesystem": "~4"
     },
     "autoload": {
