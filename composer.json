@@ -1,5 +1,5 @@
 {
-    "name": "acquia/acquia-sdk-php-rest",
+    "name": "fsmawi/acquia-sdk-php-rest",
     "type": "library",
     "description": "REST components for the Acquia SDK for PHP.",
     "keywords": ["acquia"],
